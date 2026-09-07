@@ -5,7 +5,7 @@ about:
   head: eb7468b
   archived: false
   latestVersion: "v1.6.0"
-  collectedAt: 2026-09-07T05:39:15Z
+  collectedAt: 2026-09-07T19:01:27Z
 timeline:
   created: 2024-04-24
   lastCommit: 2026-08-25
@@ -80,7 +80,7 @@ total:
   commit: 227
 ---
 path: /home/runner/.x-repo/github.com/brandonyoungdev/tldx
-collectedAt: 2026-09-07T05:39:16Z
+collectedAt: 2026-09-07T19:01:28Z
 loc:
   Go:
     code: 8164
@@ -111,7 +111,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:39:17+00:00
+  collectedAt: 2026-09-07T19:01:29+00:00
   platform:
     darwin/arm64:
       name:  tldx_1.6.0_darwin_arm64.tar.gz
