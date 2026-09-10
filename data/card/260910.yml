@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.0"
   latestRelease: "v1.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:54:55Z
+  collectedAt: 2026-09-10T20:30:21Z
 timeline:
   created: 2024-04-24
   lastCommit: 2026-08-25
@@ -16,7 +16,7 @@ timeline:
   lastPrerelease: 
 popularity:
   star: 1918
-  watcher: 4
+  watcher: 5
   fork: 80
   release: 17
   contributor: 4
@@ -84,7 +84,7 @@ total:
   commit: 227
 ---
 path: /home/runner/.x-repo/github.com/brandonyoungdev/tldx
-collectedAt: 2026-09-10T05:54:56Z
+collectedAt: 2026-09-10T20:30:23Z
 loc:
   Go:
     code: 8164
