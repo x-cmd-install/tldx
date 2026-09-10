@@ -12,6 +12,17 @@ Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix p
 x install tldx
 ```
 
+## Code insight
+
+Total: **14,659** lines of code across **58** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 8,164 | 196 | 1,575 | 53 |
+| Json | 6,476 | 0 | 0 | 2 |
+| Makefile | 19 | 0 | 8 | 1 |
+| Markdown | 0 | 531 | 251 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/brandonyoungdev/tldx>
@@ -23,7 +34,6 @@ x install tldx
 - **Latest**: `v1.6.0` (2026-08-13)
 - **Last commit**: 2026-08-25
 - **Assets in release**: 7
-- **Published**: 2026-08-13T05:25:17Z
 
 ## Popularity
 
@@ -38,27 +48,40 @@ x install tldx
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 5 | 2 | 2 | 1 | 4 |
+| last60d | 2026-07-12 | 1 | 10 | 2 | 2 | 1 | 12 |
 | 90d | 2026-06-12 | 1 | 15 | 2 | 2 | 1 | 17 |
+| last180d | 2026-03-14 | 3 | 30 | 2 | 3 | 1 | 39 |
 | 360d | 2025-09-15 | 7 | 57 | 2 | 4 | 3 | 83 |
+| last720d | 2024-09-20 | 17 | 100 | 2 | 27 | 5 | 222 |
 
-## Code size
+## Release assets
 
-Total: **14,659** lines of code across **58** files in the top 5 languages.
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tldx_1.6.0_darwin_amd64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_darwin_amd64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
+| [tldx_1.6.0_darwin_arm64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_darwin_arm64.tar.gz) | 4.8 MiB | `native/darwin/arm64` |
+| [tldx_1.6.0_linux_amd64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [tldx_1.6.0_linux_arm64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [tldx_1.6.0_windows_amd64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_amd64.zip) | 5.2 MiB | `native/win/x64` |
+| [tldx_1.6.0_windows_arm64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_arm64.zip) | 4.7 MiB | `native/win/arm64` |
+| [tldx_checksums.txt](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_checksums.txt) | 576 B | `other` |
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 8,164 | 196 | 1,575 | 53 |
-| Json | 6,476 | 0 | 0 | 2 |
-| Makefile | 19 | 0 | 8 | 1 |
-| Markdown | 0 | 531 | 251 | 2 |
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/tldx). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.6.0` | ✅ latest |
 
 ## Improve this data
 
 Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tldx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tldx.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tldx.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:55:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:30:32Z._
