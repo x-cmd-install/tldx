@@ -41,18 +41,18 @@ Total: **14,659** lines of code across **58** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 100 · **Open PRs**: 2 · **Closed issues**: 27 · **Open issues**: 5 · **Commits**: 227
+- **Releases**: 17 · **Merged PRs**: 100 · **Open PRs**: 3 · **Closed issues**: 27 · **Open issues**: 5 · **Commits**: 227
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 1 | 4 | 2 | 1 | 1 | 4 |
-| last60d | 2026-07-14 | 1 | 9 | 2 | 2 | 1 | 12 |
-| 90d | 2026-06-14 | 1 | 15 | 2 | 2 | 1 | 17 |
-| last180d | 2026-03-16 | 3 | 30 | 2 | 3 | 1 | 39 |
-| 360d | 2025-09-17 | 7 | 57 | 2 | 4 | 3 | 83 |
-| last720d | 2024-09-22 | 17 | 100 | 2 | 27 | 5 | 222 |
+| 30d | 2026-08-14 | 0 | 4 | 3 | 1 | 0 | 1 |
+| last60d | 2026-07-15 | 1 | 9 | 3 | 2 | 1 | 10 |
+| 90d | 2026-06-15 | 1 | 15 | 3 | 2 | 1 | 15 |
+| last180d | 2026-03-17 | 3 | 30 | 3 | 3 | 1 | 38 |
+| 360d | 2025-09-18 | 7 | 57 | 3 | 4 | 3 | 83 |
+| last720d | 2024-09-23 | 17 | 100 | 3 | 27 | 5 | 222 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:43:33Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:01:20Z._
