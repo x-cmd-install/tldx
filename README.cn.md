@@ -41,18 +41,18 @@ x install tldx
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 100 · **开放 PR**: 3 · **已关闭 issue**: 27 · **开放 issue**: 5 · **提交数**: 227
+- **发布数**: 17 · **已合并 PR**: 100 · **开放 PR**: 4 · **已关闭 issue**: 27 · **开放 issue**: 5 · **提交数**: 227
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 4 | 3 | 1 | 0 | 1 |
-| last60d | 2026-07-15 | 1 | 9 | 3 | 2 | 1 | 10 |
-| 90d | 2026-06-15 | 1 | 15 | 3 | 2 | 1 | 15 |
-| last180d | 2026-03-17 | 3 | 30 | 3 | 3 | 1 | 38 |
-| 360d | 2025-09-18 | 7 | 57 | 3 | 4 | 3 | 83 |
-| last720d | 2024-09-23 | 17 | 100 | 3 | 27 | 5 | 222 |
+| 30d | 2026-08-15 | 0 | 4 | 4 | 1 | 0 | 1 |
+| last60d | 2026-07-16 | 1 | 9 | 4 | 2 | 1 | 10 |
+| 90d | 2026-06-16 | 1 | 15 | 4 | 2 | 1 | 15 |
+| last180d | 2026-03-18 | 3 | 30 | 4 | 3 | 1 | 38 |
+| 360d | 2025-09-19 | 7 | 57 | 4 | 4 | 3 | 83 |
+| last720d | 2024-09-24 | 17 | 100 | 4 | 27 | 5 | 222 |
 
 ## Release 资产
 
@@ -66,15 +66,6 @@ x install tldx
 | [tldx_1.6.0_windows_arm64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_arm64.zip) | 4.7 MiB | `native/win/arm64` |
 | [tldx_checksums.txt](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_checksums.txt) | 576 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/tldx) 上共有 **8** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.6.0` | ✅ latest |
-| Nix unstable | `1.6.0` | ✅ latest |
-
 ## 改进这些数据
 
 tldx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tldx` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +75,4 @@ tldx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:01:20Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:02:57Z._
