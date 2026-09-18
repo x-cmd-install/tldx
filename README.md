@@ -47,12 +47,12 @@ Total: **14,659** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 1 | 4 | 1 | 0 | 1 |
-| last60d | 2026-07-19 | 1 | 8 | 4 | 2 | 1 | 10 |
-| 90d | 2026-06-19 | 1 | 13 | 4 | 2 | 1 | 15 |
-| last180d | 2026-03-21 | 3 | 30 | 4 | 3 | 1 | 38 |
-| 360d | 2025-09-22 | 7 | 57 | 4 | 6 | 1 | 83 |
-| last720d | 2024-09-27 | 17 | 100 | 4 | 29 | 3 | 222 |
+| 30d | 2026-08-19 | 0 | 1 | 4 | 1 | 0 | 1 |
+| last60d | 2026-07-20 | 1 | 8 | 4 | 2 | 1 | 10 |
+| 90d | 2026-06-20 | 1 | 13 | 4 | 2 | 1 | 15 |
+| last180d | 2026-03-22 | 3 | 30 | 4 | 3 | 1 | 38 |
+| 360d | 2025-09-23 | 7 | 57 | 4 | 6 | 1 | 83 |
+| last720d | 2024-09-28 | 17 | 100 | 4 | 29 | 3 | 222 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:23:50Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:08:20Z._
