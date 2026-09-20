@@ -4,7 +4,7 @@
 
 Bulk domain availability checking via RDAP, DNS, and WHOIS, with prefix/suffix permutations, regex patterns, MCP, and multiple output formats
 
-![tldx](https://repo.x-cmd.io/tldx.svg)
+[![x-cmd/install — tldx Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tldx.svg)](https://x-cmd.com/install/tldx)
 
 ## Install
 
@@ -37,7 +37,7 @@ Total: **14,659** lines of code across **58** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,922 · **Forks**: 80 · **Open issues**: 32 · **Contributors**: 4
+- **Stars**: 1,923 · **Forks**: 80 · **Open issues**: 32 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,659** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 4 | 1 | 0 | 1 |
-| last60d | 2026-07-20 | 1 | 8 | 4 | 2 | 1 | 10 |
-| 90d | 2026-06-20 | 1 | 13 | 4 | 2 | 1 | 15 |
-| last180d | 2026-03-22 | 3 | 30 | 4 | 3 | 1 | 38 |
-| 360d | 2025-09-23 | 7 | 57 | 4 | 6 | 1 | 83 |
-| last720d | 2024-09-28 | 17 | 100 | 4 | 29 | 3 | 222 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 1 | 0 | 0 |
+| last60d | 2026-07-22 | 1 | 8 | 4 | 2 | 1 | 8 |
+| 90d | 2026-06-22 | 1 | 13 | 4 | 2 | 1 | 14 |
+| last180d | 2026-03-24 | 3 | 30 | 4 | 3 | 1 | 36 |
+| 360d | 2025-09-25 | 7 | 57 | 4 | 6 | 1 | 83 |
+| last720d | 2024-09-30 | 17 | 100 | 4 | 29 | 3 | 222 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:08:20Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:14:39Z._
