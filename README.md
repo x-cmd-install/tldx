@@ -32,27 +32,27 @@ Total: **14,659** lines of code across **58** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-08-13)
-- **Last commit**: 2026-08-25
+- **Last commit**: 2026-10-12
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,930 · **Forks**: 82 · **Open issues**: 32 · **Contributors**: 4
+- **Stars**: 1,929 · **Forks**: 82 · **Open issues**: 32 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 100 · **Open PRs**: 4 · **Closed issues**: 29 · **Open issues**: 3 · **Commits**: 227
+- **Releases**: 17 · **Merged PRs**: 102 · **Open PRs**: 3 · **Closed issues**: 29 · **Open issues**: 3 · **Commits**: 229
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-13 | 1 | 4 | 4 | 1 | 1 | 2 |
-| 90d | 2026-07-14 | 1 | 9 | 4 | 2 | 1 | 10 |
-| last180d | 2026-04-15 | 3 | 25 | 4 | 3 | 1 | 33 |
-| 360d | 2025-10-17 | 7 | 56 | 4 | 6 | 1 | 82 |
-| last720d | 2024-10-22 | 17 | 100 | 4 | 29 | 3 | 222 |
+| 30d | 2026-09-13 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-14 | 0 | 6 | 3 | 1 | 0 | 0 |
+| 90d | 2026-07-15 | 1 | 11 | 3 | 2 | 1 | 0 |
+| last180d | 2026-04-16 | 3 | 27 | 3 | 3 | 1 | 0 |
+| 360d | 2025-10-18 | 7 | 58 | 3 | 6 | 1 | 0 |
+| last720d | 2024-10-23 | 17 | 102 | 3 | 29 | 3 | 224 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:58:43Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:47:26Z._
