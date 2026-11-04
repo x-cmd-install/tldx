@@ -14,11 +14,11 @@ x install tldx
 
 ## Code insight
 
-Total: **14,659** lines of code across **58** files in the top 5 languages.
+Total: **14,697** lines of code across **58** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,164 | 196 | 1,575 | 53 |
+| Go | 8,202 | 198 | 1,583 | 53 |
 | Json | 6,476 | 0 | 0 | 2 |
 | Makefile | 19 | 0 | 8 | 1 |
 | Markdown | 0 | 531 | 251 | 2 |
@@ -32,27 +32,27 @@ Total: **14,659** lines of code across **58** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-08-13)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-04
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 1,935 · **Forks**: 83 · **Open issues**: 33 · **Contributors**: 4
+- **Stars**: 1,934 · **Forks**: 83 · **Open issues**: 33 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 106 · **Open PRs**: 3 · **Closed issues**: 29 · **Open issues**: 4 · **Commits**: 233
+- **Releases**: 17 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 3 · **Commits**: 236
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 4 | 3 | 0 | 1 | 6 |
-| last60d | 2026-09-04 | 0 | 6 | 3 | 0 | 1 | 6 |
-| 90d | 2026-08-05 | 1 | 12 | 3 | 2 | 2 | 13 |
-| last180d | 2026-05-07 | 3 | 31 | 3 | 3 | 2 | 39 |
-| 360d | 2025-11-08 | 7 | 62 | 3 | 6 | 2 | 88 |
-| last720d | 2024-11-13 | 17 | 106 | 3 | 29 | 4 | 228 |
+| 30d | 2026-10-05 | 0 | 7 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-05 | 0 | 9 | 0 | 1 | 0 | 9 |
+| 90d | 2026-08-06 | 1 | 15 | 0 | 3 | 1 | 16 |
+| last180d | 2026-05-08 | 3 | 34 | 0 | 4 | 1 | 42 |
+| 360d | 2025-11-09 | 7 | 65 | 0 | 7 | 1 | 91 |
+| last720d | 2024-11-14 | 17 | 109 | 0 | 30 | 3 | 231 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:50:20Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:22:52Z._
