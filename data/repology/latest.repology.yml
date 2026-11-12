@@ -27,7 +27,7 @@
   binname: tldx
   visiblename: dns/tldx
   version: 1.6.0
-  origversion: 1.6.0_5
+  origversion: 1.6.0_6
   status: newest
   summary: Domain Availability Research Tool
   maintainers:
