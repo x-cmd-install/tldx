@@ -28,7 +28,7 @@
   visiblename: dns/tldx
   version: 1.6.0
   origversion: 1.6.0_6
-  status: newest
+  status: outdated
   summary: Domain Availability Research Tool
   maintainers:
     - nxjoseph@freebsd.org
@@ -37,7 +37,7 @@
 - repo: homebrew
   srcname: tldx
   visiblename: tldx
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
   status: newest
   summary: Domain Availability Research Tool
@@ -68,7 +68,7 @@
   visiblename: tldx
   version: 1.6.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Domain availability research tool
   maintainers:
     - syl@sperg.net
