@@ -14,14 +14,14 @@ x install tldx
 
 ## Code insight
 
-Total: **14,697** lines of code across **58** files in the top 5 languages.
+Total: **14,754** lines of code across **58** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,202 | 198 | 1,583 | 53 |
+| Go | 8,259 | 195 | 1,578 | 53 |
 | Json | 6,476 | 0 | 0 | 2 |
 | Makefile | 19 | 0 | 8 | 1 |
-| Markdown | 0 | 531 | 251 | 2 |
+| Markdown | 0 | 543 | 257 | 2 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **14,697** lines of code across **58** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.0` (2026-08-13)
-- **Last commit**: 2026-11-04
+- **Latest**: `v1.6.1` (2026-11-15)
+- **Last commit**: 2026-11-15
 - **Assets in release**: 7
 
 ## Popularity
@@ -41,39 +41,39 @@ Total: **14,697** lines of code across **58** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 109 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 3 · **Commits**: 236
+- **Releases**: 18 · **Merged PRs**: 110 · **Open PRs**: 0 · **Closed issues**: 30 · **Open issues**: 3 · **Commits**: 238
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 4 | 0 | 1 | 0 | 4 |
-| last60d | 2026-09-15 | 0 | 7 | 0 | 1 | 0 | 9 |
-| 90d | 2026-08-16 | 0 | 13 | 0 | 2 | 0 | 11 |
-| last180d | 2026-05-18 | 3 | 33 | 0 | 4 | 1 | 41 |
-| 360d | 2025-11-19 | 7 | 63 | 0 | 7 | 1 | 87 |
-| last720d | 2024-11-24 | 17 | 109 | 0 | 30 | 3 | 231 |
+| 30d | 2026-10-16 | 1 | 5 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-16 | 1 | 8 | 0 | 1 | 0 | 11 |
+| 90d | 2026-08-17 | 1 | 12 | 0 | 2 | 0 | 12 |
+| last180d | 2026-05-19 | 4 | 34 | 0 | 4 | 1 | 34 |
+| 360d | 2025-11-20 | 8 | 62 | 0 | 7 | 1 | 89 |
+| last720d | 2024-11-25 | 18 | 110 | 0 | 30 | 3 | 233 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [tldx_1.6.0_darwin_amd64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_darwin_amd64.tar.gz) | 5.2 MiB | `native/darwin/x64` |
-| [tldx_1.6.0_darwin_arm64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_darwin_arm64.tar.gz) | 4.8 MiB | `native/darwin/arm64` |
-| [tldx_1.6.0_linux_amd64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
-| [tldx_1.6.0_linux_arm64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
-| [tldx_1.6.0_windows_amd64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_amd64.zip) | 5.2 MiB | `native/win/x64` |
-| [tldx_1.6.0_windows_arm64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_1.6.0_windows_arm64.zip) | 4.7 MiB | `native/win/arm64` |
-| [tldx_checksums.txt](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.0/tldx_checksums.txt) | 576 B | `other` |
+| [tldx_1.6.1_darwin_amd64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_darwin_amd64.tar.gz) | 5.3 MiB | `native/darwin/x64` |
+| [tldx_1.6.1_darwin_arm64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_darwin_arm64.tar.gz) | 4.9 MiB | `native/darwin/arm64` |
+| [tldx_1.6.1_linux_amd64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_linux_amd64.tar.gz) | 5.2 MiB | `native/linux/x64` |
+| [tldx_1.6.1_linux_arm64.tar.gz](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_linux_arm64.tar.gz) | 4.7 MiB | `native/linux/arm64` |
+| [tldx_1.6.1_windows_amd64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_windows_amd64.zip) | 5.3 MiB | `native/win/x64` |
+| [tldx_1.6.1_windows_arm64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
+| [tldx_checksums.txt](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_checksums.txt) | 576 B | `other` |
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/tldx). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/tldx). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.6.0` | ✅ latest |
-| Nix unstable | `1.6.0` | ✅ latest |
+| Homebrew | `1.6.1` | ✅ latest |
+| Nix unstable | `1.6.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:58:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:45:14Z._
