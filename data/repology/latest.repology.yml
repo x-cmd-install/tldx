@@ -26,9 +26,9 @@
   srcname: dns/tldx
   binname: tldx
   visiblename: dns/tldx
-  version: 1.6.0
-  origversion: 1.6.0_6
-  status: outdated
+  version: 1.6.1
+  origversion: null
+  status: newest
   summary: Domain Availability Research Tool
   maintainers:
     - nxjoseph@freebsd.org
