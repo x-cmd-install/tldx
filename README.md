@@ -37,7 +37,7 @@ Total: **14,754** lines of code across **58** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,936 · **Forks**: 83 · **Open issues**: 33 · **Contributors**: 5
+- **Stars**: 1,935 · **Forks**: 83 · **Open issues**: 33 · **Contributors**: 5
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **14,754** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 5 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-16 | 1 | 8 | 0 | 1 | 0 | 11 |
-| 90d | 2026-08-17 | 1 | 12 | 0 | 2 | 0 | 12 |
-| last180d | 2026-05-19 | 4 | 34 | 0 | 4 | 1 | 34 |
-| 360d | 2025-11-20 | 8 | 62 | 0 | 7 | 1 | 89 |
-| last720d | 2024-11-25 | 18 | 110 | 0 | 30 | 3 | 233 |
+| 30d | 2026-10-17 | 1 | 5 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-17 | 1 | 8 | 0 | 1 | 0 | 11 |
+| 90d | 2026-08-18 | 1 | 11 | 0 | 2 | 0 | 12 |
+| last180d | 2026-05-20 | 4 | 34 | 0 | 4 | 1 | 34 |
+| 360d | 2025-11-21 | 8 | 62 | 0 | 7 | 1 | 89 |
+| last720d | 2024-11-26 | 18 | 110 | 0 | 30 | 3 | 233 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **14,754** lines of code across **58** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **7** distros on [repology.org](https://repology.org/project/tldx). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **7** distros on [repology.org](https://repology.org/project/tldx). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,4 +84,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:45:14Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:56:41Z._
