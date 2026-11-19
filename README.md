@@ -47,12 +47,12 @@ Total: **14,754** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 5 | 0 | 1 | 0 | 6 |
-| last60d | 2026-09-18 | 1 | 8 | 0 | 1 | 0 | 11 |
-| 90d | 2026-08-19 | 1 | 11 | 0 | 2 | 0 | 12 |
-| last180d | 2026-05-21 | 4 | 34 | 0 | 4 | 1 | 34 |
-| 360d | 2025-11-22 | 8 | 62 | 0 | 7 | 1 | 89 |
-| last720d | 2024-11-27 | 18 | 110 | 0 | 30 | 3 | 233 |
+| 30d | 2026-10-20 | 1 | 4 | 0 | 1 | 0 | 6 |
+| last60d | 2026-09-20 | 1 | 8 | 0 | 1 | 0 | 11 |
+| 90d | 2026-08-21 | 1 | 10 | 0 | 2 | 0 | 12 |
+| last180d | 2026-05-23 | 4 | 34 | 0 | 4 | 1 | 34 |
+| 360d | 2025-11-24 | 8 | 62 | 0 | 7 | 1 | 89 |
+| last720d | 2024-11-29 | 18 | 110 | 0 | 30 | 3 | 233 |
 
 ## Release assets
 
@@ -66,6 +66,15 @@ Total: **14,754** lines of code across **58** files in the top 5 languages.
 | [tldx_1.6.1_windows_arm64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
 | [tldx_checksums.txt](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_checksums.txt) | 576 B | `other` |
 
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/tldx). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.6.1` | ✅ latest |
+| Nix unstable | `1.6.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tldx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -75,4 +84,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:46:12Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:03:02Z._
