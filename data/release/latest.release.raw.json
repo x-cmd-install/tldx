@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5534850,
       "digest": "sha256:35b2ac1689dc259b17e1b2f73374c0fed35d0c2a4e6c5b168523d69714a90602",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-15T01:16:13Z",
       "updated_at": "2026-11-15T01:16:14Z",
       "browser_download_url": "https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_darwin_amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5135279,
       "digest": "sha256:757fd2ef7a92449cda280c3ced0ba259bb8b3c6ed4e00a9fb91e345c434de58b",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2026-11-15T01:16:13Z",
       "updated_at": "2026-11-15T01:16:14Z",
       "browser_download_url": "https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5426173,
       "digest": "sha256:847b9ab2f9ed7172cdfd1ba4099cbf06ba4f39f01cd6cee3b24523b81cc90f16",
-      "download_count": 26,
+      "download_count": 28,
       "created_at": "2026-11-15T01:16:15Z",
       "updated_at": "2026-11-15T01:16:15Z",
       "browser_download_url": "https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_linux_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4923287,
       "digest": "sha256:16937f6c67c0b8c5f58235d692ea8a60440302ed42f9adecf433e5dd5868ce47",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-15T01:16:15Z",
       "updated_at": "2026-11-15T01:16:15Z",
       "browser_download_url": "https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5577847,
       "digest": "sha256:b2cd47878803678f327a263b8a18a9faf48bf76ec1e141a60aa68a0fd365a489",
-      "download_count": 38,
+      "download_count": 50,
       "created_at": "2026-11-15T01:16:13Z",
       "updated_at": "2026-11-15T01:16:14Z",
       "browser_download_url": "https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_windows_amd64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4992025,
       "digest": "sha256:0701a3672248e9bccbef20252b1579f386a5399549af409421560d3c0c26234f",
-      "download_count": 19,
+      "download_count": 26,
       "created_at": "2026-11-15T01:16:13Z",
       "updated_at": "2026-11-15T01:16:14Z",
       "browser_download_url": "https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_windows_arm64.zip"
