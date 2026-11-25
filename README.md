@@ -37,22 +37,22 @@ Total: **14,754** lines of code across **58** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,935 · **Forks**: 83 · **Open issues**: 33 · **Contributors**: 5
+- **Stars**: 1,935 · **Forks**: 83 · **Open issues**: 32 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 110 · **Open PRs**: 2 · **Closed issues**: 30 · **Open issues**: 3 · **Commits**: 238
+- **Releases**: 18 · **Merged PRs**: 110 · **Open PRs**: 2 · **Closed issues**: 29 · **Open issues**: 3 · **Commits**: 238
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 4 | 2 | 1 | 0 | 5 |
-| last60d | 2026-09-25 | 1 | 8 | 2 | 1 | 0 | 11 |
-| 90d | 2026-08-26 | 1 | 10 | 2 | 1 | 0 | 11 |
-| last180d | 2026-05-28 | 3 | 29 | 2 | 4 | 1 | 33 |
-| 360d | 2025-11-29 | 8 | 60 | 2 | 7 | 1 | 87 |
-| last720d | 2024-12-04 | 18 | 110 | 2 | 30 | 3 | 233 |
+| 30d | 2026-10-26 | 1 | 4 | 2 | 1 | 0 | 5 |
+| last60d | 2026-09-26 | 1 | 8 | 2 | 1 | 0 | 11 |
+| 90d | 2026-08-27 | 1 | 10 | 2 | 1 | 0 | 11 |
+| last180d | 2026-05-29 | 3 | 29 | 2 | 3 | 1 | 33 |
+| 360d | 2025-11-30 | 8 | 60 | 2 | 6 | 1 | 87 |
+| last720d | 2024-12-05 | 18 | 110 | 2 | 29 | 3 | 233 |
 
 ## Release assets
 
@@ -66,15 +66,6 @@ Total: **14,754** lines of code across **58** files in the top 5 languages.
 | [tldx_1.6.1_windows_arm64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
 | [tldx_checksums.txt](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_checksums.txt) | 576 B | `other` |
 
-## Distribution status
-
-Reported by **7** distros on [repology.org](https://repology.org/project/tldx). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.6.1` | ✅ latest |
-| Nix unstable | `1.6.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tldx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +75,4 @@ Install metadata for tldx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:32:44Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:04:11Z._

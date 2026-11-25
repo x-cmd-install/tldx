@@ -37,22 +37,22 @@ x install tldx
 
 ## 流行度
 
-- **Star**: 1,935 · **Fork**: 83 · **开放 issue**: 33 · **贡献者**: 5
+- **Star**: 1,935 · **Fork**: 83 · **开放 issue**: 32 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 110 · **开放 PR**: 2 · **已关闭 issue**: 30 · **开放 issue**: 3 · **提交数**: 238
+- **发布数**: 18 · **已合并 PR**: 110 · **开放 PR**: 2 · **已关闭 issue**: 29 · **开放 issue**: 3 · **提交数**: 238
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 4 | 2 | 1 | 0 | 5 |
-| last60d | 2026-09-25 | 1 | 8 | 2 | 1 | 0 | 11 |
-| 90d | 2026-08-26 | 1 | 10 | 2 | 1 | 0 | 11 |
-| last180d | 2026-05-28 | 3 | 29 | 2 | 4 | 1 | 33 |
-| 360d | 2025-11-29 | 8 | 60 | 2 | 7 | 1 | 87 |
-| last720d | 2024-12-04 | 18 | 110 | 2 | 30 | 3 | 233 |
+| 30d | 2026-10-26 | 1 | 4 | 2 | 1 | 0 | 5 |
+| last60d | 2026-09-26 | 1 | 8 | 2 | 1 | 0 | 11 |
+| 90d | 2026-08-27 | 1 | 10 | 2 | 1 | 0 | 11 |
+| last180d | 2026-05-29 | 3 | 29 | 2 | 3 | 1 | 33 |
+| 360d | 2025-11-30 | 8 | 60 | 2 | 6 | 1 | 87 |
+| last720d | 2024-12-05 | 18 | 110 | 2 | 29 | 3 | 233 |
 
 ## Release 资产
 
@@ -66,15 +66,6 @@ x install tldx
 | [tldx_1.6.1_windows_arm64.zip](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_1.6.1_windows_arm64.zip) | 4.8 MiB | `native/win/arm64` |
 | [tldx_checksums.txt](https://github.com/brandonyoungdev/tldx/releases/download/v1.6.1/tldx_checksums.txt) | 576 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/tldx) 上共有 **7** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.6.1` | ✅ latest |
-| Nix unstable | `1.6.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 tldx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tldx` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -84,4 +75,4 @@ tldx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:32:45Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T10:04:11Z._
